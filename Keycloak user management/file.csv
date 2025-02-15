@@ -1,1 +1,29 @@
-firstname lastname,flastname@email.com,flastname,password
+firstname, lastname, email, username, password
+John,Doe,john.doe@example.com,john.doe,password123
+Jane,Smith,jane.smith@example.com,jane.smith,password456
+Alice,Johnson,alice.johnson@example.com,alice.johnson,password789
+Bob,White,bob.white@example.com,bob.white,password101
+Charlie,Brown,charlie.brown@example.com,charlie.brown,password202
+David,Green,david.green@example.com,david.green,password303
+Eva,Black,eva.black@example.com,eva.black,password404
+Frank,King,frank.king@example.com,frank.king,password505
+Grace,Lee,grace.lee@example.com,grace.lee,password606
+Helen,Turner,helen.turner@example.com,helen.turner,password707
+Ivy,Adams,ivy.adams@example.com,ivy.adams,password808
+Jack,Scott,jack.scott@example.com,jack.scott,password909
+Karen,Parker,karen.parker@example.com,karen.parker,password1001
+Leo,Martin,leo.martin@example.com,leo.martin,password1111
+Mona,Wilson,mona.wilson@example.com,mona.wilson,password1212
+Nina,Clark,nina.clark@example.com,nina.clark,password1313
+Oscar,Taylor,oscar.taylor@example.com,oscar.taylor,password1414
+Paul,Moore,paul.moore@example.com,paul.moore,password1515
+Quincy,Young,quincy.young@example.com,quincy.young,password1616
+Rita,Allen,rita.allen@example.com,rita.allen,password1717
+Sam,King,sam.king@example.com,sam.king,password1818
+Tina,Wright,tina.wright@example.com,tina.wright,password1919
+Ursula,Lopez,ursula.lopez@example.com,ursula.lopez,password2020
+Vince,Garcia,vincent.garcia@example.com,vincent.garcia,password2121
+Wendy,Hall,wendy.hall@example.com,wendy.hall,password2222
+Xander,Evans,xander.evans@example.com,xander.evans,password2323
+Yara,Martinez,yara.martinez@example.com,yara.martinez,password2424
+Zack,Roberts,zack.roberts@example.com,zack.roberts,password2525
